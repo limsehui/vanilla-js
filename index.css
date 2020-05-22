@@ -1,0 +1,21 @@
+body{
+    background-color:palevioletred;
+}
+
+h1{
+    color: white;
+}
+
+.clicked {
+    color: #7f8c8d ;
+}
+
+.form,
+.greetings
+{
+    display: none;
+}
+
+.showing{
+    display: block;
+}
