@@ -1,9 +1,13 @@
 body{
-    background-color:palevioletred;
+    background-color:#ecf0f1;
 }
 
-h1{
-    color: white;
+.bnt{
+    cursor: pointer;
+}
+
+body{
+    color: #34495e;
 }
 
 .clicked {
@@ -11,8 +15,7 @@ h1{
 }
 
 .form,
-.greetings
-{
+.greetings{
     display: none;
 }
 
